@@ -4,6 +4,9 @@ db.sqlite3
 # Ignore Python virtual environments
 .venv/
 
+# Ignore IDE files
+.idea/
+
 # Ignore __pycache__ and other temporary files
 __pycache__/
 *.pyc
